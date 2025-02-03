@@ -13,7 +13,8 @@ Some skills:
 
 Neat cards/stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dghalbr)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=dghalbr&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dghalbr&show_icons=true&theme=radical&card_width=495)
 
 ![](https://komarev.com/ghpvc/?username=dghalbr)
